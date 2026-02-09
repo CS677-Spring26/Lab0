@@ -23,10 +23,16 @@ To enable support for ESP32 boards on an Arduino IDE, you must point the IDE to 
 * In the search bar, type **esp32**.
 * Find the package by **Espressif Systems** and click **Install**.
 
+![Image1](espressif2.png)
+
 ### 4. Select the Board Module
 Once the installation is complete, you need to target the specific hardware:
 * Go to **Tools > Board > esp32**.
 * Select **ESP32S3 Dev Module** from the list.
+
+![Image1](espressif3.png)
+
+![Image1](espressif4.png)
 
 ### 5. Port Selection & Verification
 Ensure the IDE is communicating with your hardware over the correct serial port.
