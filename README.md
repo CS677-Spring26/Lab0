@@ -32,7 +32,6 @@ Once the installation is complete, you need to target the specific hardware:
 
 ![Image1](espressif3.png)
 
-![Image1](espressif4.png)
 
 ### 5. Port Selection & Verification
 Ensure the IDE is communicating with your hardware over the correct serial port.
@@ -43,4 +42,8 @@ Ensure the IDE is communicating with your hardware over the correct serial port.
 ### 6. Upload and Flash: 
 * Open a sketch from **File > Examples**. To upload the code, click the **Right Arrow (Upload)** button on the top-left of the IDE. 
 * Note that you must flash the code every time you make changes to the program to update the ESP32. 
+
+![Image1](espressif4.png)
+
 ---
+
