@@ -15,6 +15,9 @@ To enable support for ESP32 boards on an Arduino IDE, you must point the IDE to 
   `https://dl.espressif.com/dl/package_esp32_index.json`
 * Click **OK**.
 
+![Image1](espressif.png)
+
+
 ### 3. Install ESP32 Core
 * Navigate to **Tools > Board > Boards Manager...**
 * In the search bar, type **esp32**.
