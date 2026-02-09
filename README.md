@@ -1,8 +1,6 @@
-# Background:
+# ESP32-S3 Setup:
 
 This guide outlines the steps required to configure your development environment for the **ESP32-S3** using the Arduino IDE. You should be able to complete all steps until Section 5 without access to the ESP32-S3.
-
-## ESP32-S3 Setup
 
 ---
 
